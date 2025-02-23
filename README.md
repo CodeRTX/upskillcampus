@@ -66,7 +66,7 @@ The server will start at `http://localhost:5000`
 - Ravijyoti Motak
 
 ## License
-This project is licensed under the **MIT License**.
+This project is licensed under the **Apache License**.
 
 ## Acknowledgments
 Special thanks to IoT Academy, IIT Guwahati, and Assam Skill Development Mission for their guidance and support.
