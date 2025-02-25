@@ -6,7 +6,7 @@
 
 // Wi-Fi credentials
 const char *ssid = "My-2G";       // Replace with your Wi-Fi SSID
-const char *password = "Qwerty12"; // Replace with your Wi-Fi password
+const char *password = "XXXXXXXX"; // Replace with your Wi-Fi password
 
 // REST API endpoint
 const char *base_rest_url = "http://192.168.29.86:5000/api/sensors"; // Replace with your REST API server URL
